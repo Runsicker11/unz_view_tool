@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+UnzViewTool::Renderer.copyright 'Riley Unsicker', 'All rights reserved'
+```
 
 ## Development
 
